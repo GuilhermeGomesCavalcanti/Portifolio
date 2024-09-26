@@ -1,0 +1,11 @@
+.titulo{
+    text-align: center;
+    font-family: "Poppins";
+}
+.texto_inicial{
+    font-family: "Poppins";
+    text-align: center;
+}
+li{
+    list-style: none;
+}
